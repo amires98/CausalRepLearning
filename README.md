@@ -1,7 +1,7 @@
 # CausalRepLearning
 Code for CS 512 project
 -----------------------
-myModels.py contains my iVAE code
+myModels.py contains my iVAE code.<br/>
 Models.py contains the iVAE offical code
 
 
